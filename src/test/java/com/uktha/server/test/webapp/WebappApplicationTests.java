@@ -1,10 +1,10 @@
-package com.uktha.linux.springboot;
+package com.uktha.server.test.webapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class WebappApplicationTests {
 
 	@Test
 	void contextLoads() {

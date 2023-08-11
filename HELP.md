@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'com.uktha.linux.spring-boot' is invalid and this project uses 'com.uktha.linux.springboot' instead.
-
 # Getting Started
 
 ### Reference Documentation
